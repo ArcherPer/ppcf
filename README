@@ -1,0 +1,4 @@
+Portable Compile Format (pcf) Parser.
+
+make all -> build library
+make clean -> delete library
