@@ -3,5 +3,5 @@
 
 # Usage
 ---------------------------------------
-'make all' -> build library
-'make clean' -> delete library
+**make all** -> build library
+**make clean** -> delete library
