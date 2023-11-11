@@ -4,4 +4,5 @@
 # Usage
 ---------------------------------------
 **make all** -> build library
+
 **make clean** -> delete library
